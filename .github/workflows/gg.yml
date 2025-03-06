@@ -1,4 +1,4 @@
-name: Playit RDP Tunnel
+name: Playit Tunnel
 
 on:
   workflow_dispatch:
